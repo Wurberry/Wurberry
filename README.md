@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 <h3 align="center">An enthusiastic game developer on UE4|5 with C++|BP from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wurberry&label=Profile%20views&color=0e75b6&style=flat" alt="wurberry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wurberry" alt="wurberry" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
 - 🔭 I’m currently working on **Geometry SandBox**
@@ -23,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  telegram: Evstid
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +27,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wurberry&show_icons=true&locale=en&layout=compact" alt="wurberry" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wurberry" alt="wurberry" /></a></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wurberry&show_icons=true&locale=en" alt="wurberry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wurberry&" alt="wurberry" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wurberry&label=Profile%20views&color=0e75b6&style=flat" alt="wurberry" /> </p>
