@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  telegram: Evstid
+  telegram: Evsti_D
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
